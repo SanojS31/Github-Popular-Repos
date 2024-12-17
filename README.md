@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgapoplrrepos.ccbp.tech/](https://durgapoplrrepos.ccbp.tech/)🔗
+## **_Website_**:[https://sanojpoprepo.ccbp.tech/](https://sanojpoprepo.ccbp.tech/)🔗
 
 
 In this project, let's build a **Github Popular Repos** by applying the concepts we have learned till now.
